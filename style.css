@@ -1,0 +1,77 @@
+body{
+
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+  font-family: 'Libre Baskerville', sans-serif;
+}
+hr{
+
+  width: 25%;
+
+}
+h1{
+
+  color:#66BFBF;
+  font-size:5.6rem;
+  margin: 50px auto 0 auto;
+}
+h2{
+  color:#66BFBF;
+  font-size:2rem;
+  font-weight: normal;
+  padding-bottom:5px;
+}
+p{
+  line-height: 2;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+.link{
+  text-decoration: none;
+}
+.top-container{
+
+background-color: #E4F9F5;
+position: relative;
+padding-top: 100px;
+padding-bottom: 100px;
+}
+.text-title{
+  font-family: 'Sacramento', serif;
+}
+.middle-container{
+  padding-top:70px;
+
+}
+.me-icon{
+  width:150px;
+  height:150px;
+}
+.code-icon{
+  width:150px;
+  height:150px;
+}
+.python-icon{
+  width:150px;
+  height:150px;
+}
+.guitar-icon{
+height:150px;
+width:150px;
+}
+
+.skill-row{
+  width: 50%;
+  margin:50px auto 50px auto;
+}
+.footer{
+padding-top:15px;
+height:100px;
+background-color: #E4F9F5;
+}
+.footer-link{
+  display:block;
+}
